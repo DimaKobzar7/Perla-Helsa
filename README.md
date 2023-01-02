@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Perla Helsa
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+[Design](https://www.figma.com/file/B4IkSXRtiSEKYoc7FSWOaM/Test-task-for-frontend-dev?t=92dQeTJygiXbfT4y-0) 
+
+Technology stack: Nuxt3, JavaScript, CSS, SCSS
 
 ## Setup
 
